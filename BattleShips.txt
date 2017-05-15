@@ -1,0 +1,7 @@
+This project is a laboratory work number 4 on the subject "Professional Practice of Software Engineering"
+The author of this project -
+Levchenko Anatoly
+Petrenko Dmitry
+Ilnikov Anton
+Reprintsev Denis
+2017
